@@ -2,7 +2,6 @@ import pandas as pd
 
 def get_data():
 	# do some data fetch activity and store in a file
-	raise ValueError()
 	return 1
 
 def update_data():
